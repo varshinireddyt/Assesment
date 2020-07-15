@@ -10,7 +10,6 @@ Python
 Jupyter NoteBook
 
 #### Algorithms
-Classification Algorithms
 Random Forest
 ExtraTree Classifier
 eXtreme Gradient Boosting.
