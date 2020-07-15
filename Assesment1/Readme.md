@@ -1,1 +1,1 @@
-For implementation of the model: KPI_SOFT.ipynb
+For implementation of the model: KPI_Soft.ipynb
